@@ -1,7 +1,3 @@
 **Database Name: expenseman**
 
-**Developed by Niraj**
-
-**Tested with PHP v5**
-
 
